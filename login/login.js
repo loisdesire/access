@@ -33,3 +33,4 @@ document.getElementById('loginForm').addEventListener('submit', function (e) {
 });
 
 
+/*In nav, display username and role. Protect the route*/
